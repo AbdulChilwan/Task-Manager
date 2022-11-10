@@ -1,0 +1,12 @@
+There are 2 users.
+There are 3 tasks.
+Each user's break down of tasks: {'admin': 2, 'abdul': 1}
+==================================================
+admin has 66.66666666666666 percentage of tasks
+abdul has 33.33333333333333 percentage of tasks
+==================================================
+abdul has 100.0% tasks completed
+admin has 50.0% tasks completed
+==================================================
+admin has 50.0% tasks NOT completed
+==================================================
